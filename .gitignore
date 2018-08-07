@@ -1,0 +1,5 @@
+.DS_Store
+/.build
+/Packages
+/BitriseKit.xcodeproj/xcuserdata/
+/BitriseKit.xcodeproj/project.xcworkspace/xcuserdata/
