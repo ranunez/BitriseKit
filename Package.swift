@@ -5,6 +5,9 @@ import PackageDescription
 
 let package = Package(
     name: "BitriseKit",
+    products: [
+        .library(name: "BitriseKit", targets: ["BitriseKit"])
+    ],
     targets: [
     .target(name: "BitriseKit", path: "BitriseKit")
     ]
